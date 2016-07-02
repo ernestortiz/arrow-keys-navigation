@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Arrow Keys Navigation ===
 
 Contributors: ernestortiz
 Plugin URI: https://github.com/ernestortiz/arrow-keys-navigation
